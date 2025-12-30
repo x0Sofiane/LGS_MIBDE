@@ -1,7 +1,4 @@
 
-
-```markdown
-
 \# 🛒 LGS Caisse Manager
 
 
@@ -154,10 +151,7 @@ Installez \*\*PyInstaller\*\* :
 
 pip install pyinstaller
 
-
-
 ```
-
 
 
 \### 2. Compilation
@@ -171,8 +165,6 @@ Lancez cette commande dans votre terminal à la racine du projet :
 ```powershell
 
 python -m PyInstaller --noconsole --onefile --icon=logo.ico --name="LGS\_Caisse" main.py
-
-
 
 ```
 
